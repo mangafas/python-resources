@@ -11,3 +11,7 @@
 #### [Site](http://www.onstrat.com/osint/)
 ##### Summary: Internet Tools, news and resources
 
+### IntelTechniques
+#### [Site](https://inteltechniques.com/)
+##### Summary: Internet Tools, resources, paid online/live video training 
+
