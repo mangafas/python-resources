@@ -17,20 +17,20 @@
 ### Lightning Talks - April 10th
 #### [Talk](https://www.youtube.com/watch?v=yws4n-0-Yj8)
 #### Speakers: Various PyCon Speakers
-#### Conference: PyCon Portland 2015
+#### Conference: PyCon Montreal 2015
 
 ### Lightning Talks - April 11th 8h30
 #### [Talk](https://www.youtube.com/watch?v=byClBydNI1A)
 #### Speakers: Various PyCon Speakers
-#### Conference: PyCon Portland 2015
+#### Conference: PyCon Montreal 2015
 
 ### Lightning Talks - April 11th 17h30
 #### [Talk](https://www.youtube.com/watch?v=JVVMMULwR4s)
 #### Speakers: Various PyCon Speakers
-#### Conference: PyCon Portland 2015
+#### Conference: PyCon Montreal 2015
 
 ### Lightning Talks - April 12th 08h30
 #### [Talk](https://www.youtube.com/watch?v=ZEE3dlo7ov0)
 #### Speakers: Various PyCon Speakers
-#### Conference: PyCon Portland 2015
+#### Conference: PyCon Montreal 2015
 
