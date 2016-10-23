@@ -34,3 +34,29 @@
 #### Speakers: Various PyCon Speakers
 #### Conference: PyCon Montreal 2015
 
+## 2014
+
+### Lightning Talks Session 01
+#### [Talk](https://www.youtube.com/watch?v=RLDXh2UiGq8)
+#### Speakers: Various PyCon Speakers
+#### Conference: PyCon Montreal 2014
+
+### Lightning Talks Session 02
+#### [Talk](https://www.youtube.com/watch?v=951amNT8_7o)
+#### Speakers: Various PyCon Speakers
+#### Conference: PyCon Montreal 2014
+
+### Lightning Talks Session 03
+#### [Talk](https://www.youtube.com/watch?v=Jb6ij4eRu6c)
+#### Speakers: Various PyCon Speakers
+#### Conference: PyCon Montreal 2014
+
+### Lightning Talks Session 04
+#### [Talk](https://www.youtube.com/watch?v=xcXheAWy7cU)
+#### Speakers: Various PyCon Speakers
+#### Conference: PyCon Montreal 2014
+
+### Lightning Talks Session 05
+#### [Talk](https://www.youtube.com/watch?v=NSLvERZQSok)
+#### Speakers: Various PyCon Speakers
+#### Conference: PyCon Montreal 2014
