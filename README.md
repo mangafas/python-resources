@@ -15,3 +15,8 @@ In Data Science you analyze data using python.
 Open Source Intelligent(OSINT) is used to write code to automatically extract and analyze data from the web and social media
 #### [OSINT Sites](https://github.com/mangafas/python-resources/blob/master/OSINT/sites.md)
 #### [OSINT Talks](https://github.com/mangafas/python-resources/blob/master/OSINT/talks.md)
+
+## Podcasts
+### What are Podcasts?
+Podcasts are a kind of talk-show that cover a general and/specific topic
+#### [Podcasts](https://github.com/mangafas/python-resources/blob/master/Podcasts/Sites.md)
